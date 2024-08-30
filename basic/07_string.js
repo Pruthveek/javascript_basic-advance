@@ -22,3 +22,6 @@ const newname = new String("           PUBG     ")
 console.log(newname);
 console.log(newname.trim())
 
+console.log(gamename.includes("PUBG"))
+
+console.log(gamename.split(' '))
