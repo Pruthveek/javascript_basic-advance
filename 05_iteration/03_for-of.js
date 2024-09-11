@@ -9,3 +9,13 @@ myarray.push(20)
 for (const num of myarray){
     console.log(num);
 }
+
+const myObject={
+    game1:"GTA5",
+    game2:"Spiderman3",
+    game3:"WWE2k23"
+}
+
+for(const keyvalue of myObject){
+    console.log(keyvalue);
+}
