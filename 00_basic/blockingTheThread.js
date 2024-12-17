@@ -1,0 +1,6 @@
+setTimeout(function(){
+    console.log("Timer"); 
+ },10)
+ for(var i =1;i<100000;i++){
+     console.log(i);
+ }
